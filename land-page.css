@@ -1,0 +1,29 @@
+body
+{
+    font-family: Helvetica, sans-serif;
+    background-image: url(img/pixel3.gif);
+    background-size: cover;
+    display: -webkit-box;
+}
+ul
+{
+    list-style: none;
+    display: inline;
+}
+#socialmedias ul img
+{
+    border-radius: 10px;
+}
+#socialmedias
+{
+    padding: 20px 5px;
+    width: fit-content; 
+}
+article
+{
+    background-color: #F5EAC2;
+    width: fit-content; 
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
